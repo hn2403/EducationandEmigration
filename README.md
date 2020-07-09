@@ -1,5 +1,5 @@
 # EducationandEmigration
-Scatter Plot and Regression Analysis of Changes in High-Skilled Emigration Rates and High-Skilled Percentages in non-OECD countries Between 1980 and 2010.
+Scatter Plot and Regression Analysis of Changes in High-Skilled Emigration Rates and changes in High-Skilled Percentages in non-OECD countries Between 1980 and 2010.
 
 This is Python codes for my paper "Fast Education and Fast Emigration"
 
