@@ -5,6 +5,6 @@ This is Python codes for my paper "Fast Education and Fast Emigration"
 
 See my website for more details: https://sites.google.com/view/htnguyen2403/home
 
-The data folder contains
+The data folder contains IAB Brain Drain Dataset, Barro-Lee Educational Attainment and World Development Indicators Datasets. 
 
 
